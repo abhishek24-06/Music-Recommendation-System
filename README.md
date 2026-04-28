@@ -17,7 +17,7 @@ A ML based Music recommendation system that suggests songs based on audio simila
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 Music Recommendation System/
@@ -45,7 +45,7 @@ Music Recommendation System/
 
 ---
 
-## ⚙️ Setup & Run
+## Setup & Run
 
 ### 1. Backend (FastAPI)
 
@@ -97,7 +97,7 @@ curl "http://localhost:8000/search?query=tum"
 
 ---
 
-## 🧠 Algorithm
+##  Algorithm
 
 1. **Load** `spotify_tracks.csv` → clean + deduplicate
 2. **Scale** audio features with `StandardScaler` (pre-fitted `scaler.pkl`)
@@ -114,17 +114,17 @@ curl "http://localhost:8000/search?query=tum"
 
 ---
 
-## 🎨 UI Features
+##  UI Features
 
-- 🌑 Dark glassmorphism theme with animated gradient orbs
-- 🔍 Debounced autocomplete with album art thumbnails
-- 🃏 Song cards with artwork, popularity bar, year, and Spotify links
-- ⏳ Skeleton loading animations
-- 📱 Fully responsive
+-  Dark glassmorphism theme with animated gradient orbs
+-  Debounced autocomplete with album art thumbnails
+-  Song cards with artwork, popularity bar, year, and Spotify links
+-  Skeleton loading animations
+-  Fully responsive
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 **Backend:** FastAPI, Uvicorn, Pandas, NumPy, Scikit-learn  
 **Frontend:** React 18, Vite, Inter & Outfit fonts (Google Fonts)
