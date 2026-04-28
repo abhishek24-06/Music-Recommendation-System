@@ -1,4 +1,4 @@
-# 🎧 Tunify — Music Recommendation System
+# 🎧 Tunify — Music Recommendation System.
 
 An AI-powered music recommendation system that suggests songs based on audio similarity using cosine similarity on Spotify features.
 
