@@ -2,12 +2,12 @@
 
 An AI-powered music recommendation system that suggests songs based on audio similarity using cosine similarity on Spotify features.
 
-## 🚀 Features
-- 🔍 Smart song search
-- 🎵 Cosine similarity recommendations
-- 🌍 Language-aware filtering
-- 🔗 Direct Spotify links
-- 🎨 Modern React UI
+##  Features
+-  Smart song search
+-  Cosine similarity recommendations
+-  Language-aware filtering
+-  Direct Spotify links
+-  Modern React UI
 
 ## 🛠 Tech Stack
 - Frontend: React (Vite)
